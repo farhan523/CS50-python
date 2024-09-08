@@ -1,0 +1,1 @@
+print(input("Please Enter Some Thing ").lower());
